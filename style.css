@@ -1,7 +1,17 @@
 body{
-    background-color: grey;
-    color: aqua;
+    background-color: wheat;
 }
-h1{
+p{
     color: blue;
+}
+li{
+    color: violet;
+}
+table{
+    margin: 3px;
+    background-color: whitesmoke;
+    border: auto;
+    color: black;
+    font-style: oblique;
+    font-size: auto;
 }
